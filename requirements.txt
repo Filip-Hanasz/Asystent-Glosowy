@@ -1,0 +1,7 @@
+speech_recognition
+webbrowser
+playsound
+os
+random
+gtts
+google_trans_new
